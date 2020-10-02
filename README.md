@@ -2,9 +2,6 @@
 
 I do many things, mostly in Python, and working on improving my C and Go.
 
-[Discord](https://discord.gg/xaKYF5b),
-[Twitter](https://twitter.com/caverym_)
-
 # Current projects:
 ## Proton Caller
 [repo](https://github.com/caverym/proton-caller) <br>
