@@ -1,6 +1,6 @@
 # Welcome,,
 
-I do many things, mostly in Python, and working on improving my C and Go.
+I do many things, mostly in Python, and working on improving my C/C++.
 
 # Current projects:
 ## Proton Caller
