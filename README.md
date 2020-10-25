@@ -1,5 +1,5 @@
 # Welcome,,
-
+I only use Linux and BSD.
 I do many things, mostly in Python, and working on improving my C/C++.
 
 # Current projects:
