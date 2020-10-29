@@ -1,6 +1,6 @@
 # Welcome,,
 I only use Linux and BSD.
-I do many things, mostly in Python, and working on improving my C/C++.
+I do many things, mostly in C++ and Python, and working on improving my C.
 
 # Current projects:
 ## [Proton Caller](https://github.com/caverym/proton-caller)
