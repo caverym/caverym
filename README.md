@@ -1,6 +1,10 @@
 # Welcome,,
-I only use Linux and BSD.
-I do many things, mostly in C++ and Python, and working on improving my C.
+I only use Linux.
+I do many things:
+
+[Photography,](https://unsplash.com/@caverym), Programming, and [Music](https://caverym.bandcamp.com/)
+
+I know: C/C++ and Rust. I'm not a professional, probably less than an amature, but seriously love making things and working with people <3
 
 Twitter: [@caverym_](https://twitter.com/caverym_),
 Matrix: [@bunnylapine:fairydust.space](https://matrix.to/#/@bunnylapine:fairydust.space),
