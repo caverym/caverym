@@ -13,7 +13,7 @@ Discord: [Avery~#1845](https://discord.gg/Ef4pG66h7M),
 
 # Current projects:
 ## [Proton Caller](https://github.com/caverym/proton-caller)
-Working on cleaning up the code and adding many many more features.
+A program to launch any given Windows executable through [Valve's Proton](https://github.com/ValveSoftware/Proton)
 
-## Discord bot for [WASDudes](https://www.twitch.tv/wasdudes)
-No repo created yet.
+## [Plage](https://github.com/caverym/plage)
+A very simple or suckless AUR helper.
