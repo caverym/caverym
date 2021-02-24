@@ -17,3 +17,6 @@ A program to launch any given Windows executable through [Valve's Proton](https:
 
 ## [Plage](https://github.com/caverym/plage)
 A very simple or suckless AUR helper.
+
+## [Cimplefetch](https://github.com/caverym/cimplefetch)
+A simple C system info fetch program.
