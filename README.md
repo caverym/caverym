@@ -6,6 +6,9 @@ I do many things:
 
 I know: C/C++ and Rust. I'm not a professional, probably less than an amature, but seriously love making things and working with people <3
 
+[![Avery's GitHub stats](https://github-readme-stats.vercel.app/api?username=caverym&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Twitter: [@caverym_](https://twitter.com/caverym_),
 Matrix: [@bunnylapine:fairydust.space](https://matrix.to/#/@bunnylapine:fairydust.space),
 Discord: [Avery~#1845](https://discord.gg/Ef4pG66h7M),
